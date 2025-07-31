@@ -24,6 +24,10 @@
 - <b>Microsoft Azure Fundamentals (AZ-900)</b> — Credential ID: AZ900-XYZ789  
 - <b>Google IT Support Certificate</b> — [See Credential](https://www.credly.com/)  
 - <b>TryHackMe: Cybersecurity Beginner Path</b> — [See Path](https://tryhackme.com/)
+- <b>CourseCareers IT Certificate</b> —  
+  <a href="https://your-course-link.com" target="_blank">
+    <img src="CourseCareersCertificate%20(1).jpeg" alt="CourseCareers Certificate" width="300" />
+  </a>
 
 <h2>📺 Popular YouTube Videos</h2>
 
