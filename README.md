@@ -1,50 +1,73 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Removed <title> as requested -->
+</head>
+<body style="font-family: Arial, sans-serif; padding: 20px; line-height: 1.6;">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+  <h1>Hi, I'm Richard Noruwa!<br />
+    <a href="https://github.com/RichardNOR" target="_blank">Data Analyst</a>
+  </h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  <h2>📊 Data Analyst Portfolio Projects</h2>
+  <ul>
+    <li><b>POWER BI:</b> Adventure Works Sales & Profit Dashboard — 
+      <a href="https://app.powerbi.com/view?r=eyJrIjoiMDg4M2I5MGQtMzdiMC00NzAyLWI3OWItNTU4ZGJiNmEwN2UxIiwidCI6IjMzYjU1NzA5LTdmZjMtNGFmMS05ZWRjLWU2YTc2OGZjNzRmNiIsImMiOjN9" target="_blank">
+        View Dashboard
+      </a>
+    </li>
+    <li><b>PYTHON:</b> MPG Analysis and Prediction — 
+      <a href="https://github.com/RichardNOR/Mpg-fuel-efficiency-analysis/blob/main/Mpg_fuel_efficiency_analysis%20.ipynb" target="_blank">
+        View Notebook
+      </a>
+    </li>
+    <li><b>SQL:</b> Museum Data Insights: Exploring Art Trends — 
+      <a href="https://docs.google.com/document/d/1vZefn-aIP9s01I9WqWyjj0dqDESDFcqAxScZSl_WJPo/edit?usp=sharing" target="_blank">
+        View Report
+      </a>
+    </li>
+    <li><b>EXCEL:</b> Movie Profitability: Exploring Revenue vs. Budget — 
+      <a href="https://1drv.ms/x/c/1043e564fa50e527/ESflUPpk5UMggBBKAwAAAAABYgQmEqzG2RoscFAIneYR5g?e=XdgipK" target="_blank">
+        View Workbook
+      </a>
+    </li>
+    <li><b>TABLEAU:</b> COVID-19’s Impact on Food Consumption Trends — 
+      <a href="https://public.tableau.com/views/TableauCOVID-19Pandemic_ImmediateandLong-TermInfluenceonFoodConsumptionTrends/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+        View Visualization
+      </a>
+    </li>
+  </ul>
 
-<h2>📜 Certifications:</h2>
+  <h2>📜 Certifications</h2>
+  <ul>
+    <li>
+      <b>CourseCareers IT Certificate</b><br />
+      <img src="CourseCareersCertificate%20(1).jpeg" alt="CourseCareers Certificate" width="300" />
+    </li>
+    <li>
+      <b>Microsoft Power BI Desktop for Business Intelligence (Udemy)</b><br />
+      <a href="Power%20Bi%20Mavern%20Desktop.pdf" target="_blank">
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Power%20Bi%20Mavern%20Desktop_page-0001.jpg" alt="Udemy Power BI Certificate" width="300" />
+      </a>
+    </li>
+  </ul>
 
-- <b>CompTIA Security+</b> — Credential ID: ABC123456  
-- <b>Microsoft Azure Fundamentals (AZ-900)</b> — Credential ID: AZ900-XYZ789  
-- <b>Google IT Support Certificate</b> — [See Credential](https://www.credly.com/)  
-- <b>TryHackMe: Cybersecurity Beginner Path</b> — [See Path](https://tryhackme.com/)
-- <b>CourseCareers IT Certificate</b> —  
-  <a href="https://your-course-link.com" target="_blank">
-    <img src="CourseCareersCertificate%20(1).jpeg" alt="CourseCareers Certificate" width="300" />
+  <h2>🤝 Connect with Me</h2>
+  <a href="https://linkedin.com/in/richard-noruwa-166a622b2/" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0a66c2;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: sans-serif;
+  ">
+    Connect on LinkedIn
   </a>
 
-<h2>📺 Popular YouTube Videos</h2>
+</body>
+</html>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor  
-[youtube]: https://www.youtube.com/c/joshmadakor  
-[instagram]: https://www.instagram.com/joshmadakor/  
-[linkedin]: https://linkedin.com/in/joshmadakor
